@@ -11,9 +11,9 @@ You can add your own features, select your own features, try different modeling 
 
 Data Sources
 
-stadiums: 'https://raw.githubusercontent.com/slieb74/NFL-Betting-Data/master/data/nfl_stadiums.csv'
-teams: 'https://raw.githubusercontent.com/slieb74/NFL-Betting-Data/master/data/nfl_teams.csv'
-538.com elo ratings: https://github.com/fivethirtyeight/nfl-elo-game
-Historic Line Movement Data: http://www.aussportsbetting.com/data/historical-nfl-results-and-odds-data/
-Sreadspoke scores and game data: https://www.kaggle.com/tobycrabtree/datasets
+stadiums: 'https://raw.githubusercontent.com/slieb74/NFL-Betting-Data/master/data/nfl_stadiums.csv'                                                        
+teams: 'https://raw.githubusercontent.com/slieb74/NFL-Betting-Data/master/data/nfl_teams.csv'                                                               
+538.com elo ratings: https://github.com/fivethirtyeight/nfl-elo-game                                                                                            
+Historic Line Movement Data: http://www.aussportsbetting.com/data/historical-nfl-results-and-odds-data/                                                      
+Sreadspoke scores and game data: https://www.kaggle.com/tobycrabtree/datasets                       
 
