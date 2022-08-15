@@ -9,7 +9,7 @@ Following the notebook will allow you to see my basic method for predicting bett
 
 You can add your own features, select your own features, try different modeling techniques, use different methods of performance evaluation to try and come up with the best solution.
 
-Data Sources
+Data Sources  
 
 stadiums: 'https://raw.githubusercontent.com/slieb74/NFL-Betting-Data/master/data/nfl_stadiums.csv'                                                        
 teams: 'https://raw.githubusercontent.com/slieb74/NFL-Betting-Data/master/data/nfl_teams.csv'                                                               
